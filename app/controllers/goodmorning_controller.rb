@@ -1,0 +1,2 @@
+class GoodmorningController < ApplicationController
+end
